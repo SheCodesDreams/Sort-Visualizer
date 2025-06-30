@@ -1,4 +1,4 @@
-# Sort Visualizer
+# Sorting Visualizer
 
 An interactive web-based visualization tool for classic sorting algorithms. Watch Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, and Selection Sort in action with real-time animations and a modern, responsive UI.
 
@@ -15,7 +15,7 @@ An interactive web-based visualization tool for classic sorting algorithms. Watc
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/SheCodesDreams/Sort-Visualizer.git
+git clone https://github.com/SheCodesDreams/Sorting-Visualizer.git
 cd sorting-illustrator
 ```
 
