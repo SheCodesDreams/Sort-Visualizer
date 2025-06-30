@@ -1,5 +1,5 @@
 {
-  "name": "sorting-illustrator",
+  "name": "sorting-visualizer",
   "version": "2.0.0",
   "description": "An interactive sorting algorithm visualizer with modern UI and real-time animations",
   "main": "index.html",
@@ -24,7 +24,7 @@
     "html5",
     "css3"
   ],
-  "author": "Sorting Illustrator Team",
+  "author": "Sorting Visualizer Team",
   "license": "MIT",
   "devDependencies": {
     "serve": "^14.2.1"
@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/sorting-illustrator.git"
+    "url": "https://github.com/yourusername/sorting-visualizer.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/sorting-illustrator/issues"
+    "url": "https://github.com/yourusername/sorting-visualizer/issues"
   },
-  "homepage": "https://github.com/yourusername/sorting-illustrator#readme",
+  "homepage": "https://github.com/yourusername/sorting-visualizer#readme",
   "overrides": {
     "uuid": "^9.0.0",
     "source-map-url": "^0.4.1",
