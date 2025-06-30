@@ -16,7 +16,7 @@ An interactive web-based visualization tool for classic sorting algorithms. Watc
 
 ```bash
 git clone https://github.com/SheCodesDreams/Sorting-Visualizer.git
-cd sorting-illustrator
+cd sorting-visualizer
 ```
 
 ### 2. Install dependencies (optional, for development scripts)
